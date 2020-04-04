@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=obj
+comment0.target=Outer(AWT.AEvent2)
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=2
