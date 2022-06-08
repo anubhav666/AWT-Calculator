@@ -1,2 +1,2 @@
 # AWT-Calculator
-This an Unfinished Calculator using awt package of JAVA libraries 
+This a Simple Calculator using awt package of JAVA libraries 
